@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/muiPrj/static/css/main.0aede17c.css",
+    "main.js": "/muiPrj/static/js/main.f26f5a2a.js",
+    "index.html": "/muiPrj/index.html",
+    "main.0aede17c.css.map": "/muiPrj/static/css/main.0aede17c.css.map",
+    "main.f26f5a2a.js.map": "/muiPrj/static/js/main.f26f5a2a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aede17c.css",
+    "static/js/main.f26f5a2a.js"
+  ]
+}
